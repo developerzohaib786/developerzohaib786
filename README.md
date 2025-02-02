@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Muhammad Zohaib Irshad.<br>👀 I’m interested in Web applications, ethical hacking, and machine learning.<br>🌱 I am a MERN Stack developer and currently working on my Full Stack Web projects.<br>📫 You can reach me by contacting at email zohaibirshad678@gmail.com.
+👋 Hi, I’m Muhammad Zohaib Irshad, MERN stack developer from Pakistan.<br>👀 I’m interested in Web applications, ethical hacking, and machine learning.<br>🌱 I am a MERN Stack developer and currently working on my Full Stack Web projects.<br>📫 You can reach me by contacting at email zohaibirshad678@gmail.com.
 
 
 ## 🌐 Socials:

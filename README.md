@@ -1,24 +1,77 @@
-# 💫 About Me:
-👋 Hi, I’m Muhammad Zohaib Irshad, MERN stack developer from Pakistan.<br>👀 I’m interested in Web applications, ethical hacking, and machine learning.<br>🌱 I am currently working on my Full Stack Web projects and looking for some freelance projects.<br>📫 You can reach me by contacting at email zohaibirshad678@gmail.com.
+<!-- Hi there 👋 Welcome to my GitHub! -->
 
+<h1 align="center">Hi 👋, I'm Muhammad Zohaib Irshad</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Specialist | Tech Innovator from Islamabad, Pakistan</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/developer_zohaib/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/developerzohaib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zohaibirshad678@gmail.com) 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=developerzohaib786&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=developerzohaib786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=developerzohaib786&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🔭 I’m currently working on **MERN stack SaaS, AI chatbot integration, and real-world freelance projects**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=developerzohaib786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🌱 I’m constantly learning **advanced backend systems, AI APIs, and scalable cloud infrastructure**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=developerzohaib786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 👯 I’m collaborating on **an Employee Management System using MERN Stack**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](http://portfolio-dev-gamma-one.vercel.app/)
+
+- 💬 Ask me about **React.js, Node.js, MongoDB, REST APIs, and AI integrations**
+
+- 📫 Reach me at **muhammadzohaibdev@gmail.com**
+
+- 📄 Know about my experience: [My Resume](https://github.com/developerzohaib786)
+
+- ⚡ Fun fact: I love transforming ideas into full-stack products that solve real-world problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=developerzohaib786&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Languages and Tools:
+
+<p align="left"> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developerzohaib786&show_icons=true&locale=en" alt="developerzohaib786" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerzohaib786&" alt="developerzohaib786" />
+</p>
+
+---
+
+### 🔗 Let's Connect:
+
+<p align="left">
+  <a href="https://linkedin.com/in/developerzohaib786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="mailto:muhammadzohaibdev@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="30" width="30" /></a>
+  <a href="https://github.com/developerzohaib786"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30" /></a>
+</p>
+
+---
+
+### 🚀 Featured Projects:
+
+- **AI-Powered Chatbot** – Medical support automation with OpenAI integration.
+- **Real Estate MERN App** – Client-ready full-featured real estate website.
+- **Employee Management System** – Role-based access control and analytics.
+- **URL Shortener App** – Backend API with Node.js and Express.
+- **Bootstrap Blog Site** – Course listing blog with dynamic sidebar.
+
+---
+
+### 📚 Currently Learning:
+- Cloud Deployment (Fly.io, Vercel)
+- Blockchain with C++
+- Scalable SaaS Architectures
+
+---
+
+> “Code is the bridge between dreams and reality. I build that bridge daily.” – Muhammad Zohaib Irshad
+

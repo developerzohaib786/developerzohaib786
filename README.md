@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerzohaib786&show_icons=true&locale=en" alt="developerzohaib786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerzohaib786&" alt="developerzohaib786" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=developerzohaib786&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

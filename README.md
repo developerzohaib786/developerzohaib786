@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **BlockChain Development using Solidity and Ethereum Smart Contracts.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dev-gamma-one.vercel.app/](https://portfolio-dev-gamma-one.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio.](https://portfolio-dev-gamma-one.vercel.app/).
 
-- 💬 Ask me about **React.js, Node.js, MongoDB, REST APIs, AI integrations, NEXTJS, and TypeScript..**
+- 💬 Ask me about **React.js, Node.js, MongoDB, REST APIs, AI integrations, NEXTJS, and TypeScript.**
 
 - 📫 How to reach me **zohaibirshad678@gmail.com**
 

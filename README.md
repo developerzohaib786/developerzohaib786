@@ -28,6 +28,15 @@
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neon DB](https://img.shields.io/badge/Neon%20DB-00D9FF?style=for-the-badge&logo=Neondb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🏗️ System Design & Scalability
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-FF4500?style=for-the-badge&logo=bullmq&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+* **Message Queues & Workers:** Managing distributed background tasks and scheduled jobs using **BullMQ** and **Redis**.
+* **Event-Driven Architecture:** Decoupling microservices and processing high-throughput data streams with **Apache Kafka**.
+* **Traffic Control:** Implementing **Rate Limiting** (Fixed/Sliding Window), Load Balancing, and API Gateway patterns.
+* **Performance:** Advanced **Caching** strategies (In-memory, Distributed) and Database Indexing for optimization.
+* **Reliability:** Designing for **Horizontal Scaling**, High Availability, and Fault Tolerance.
+
 ### 🛠️ Tools & Others
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=openai&logoColor=white) ![Bolt.new](https://img.shields.io/badge/Bolt.new-3399FF?style=for-for-the-badge&logo=bolt&logoColor=white) ![Lovable Tools](https://img.shields.io/badge/Lovable%20Tools-FF69B4?style=for-the-badge&logo=lovelace&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 

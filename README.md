@@ -164,7 +164,7 @@ const zohaib = {
 
 ## Get in touch
 
-If you have a project that needs a reliable full-stack engineer — or you're hiring remote — I'd like to hear about it.
+If you have a project that needs a reliable full-stack engineer or you're hiring remote, I'd like to hear about it.
 
 📧 [zohaibirshad678@gmail.com](mailto:zohaibirshad678@gmail.com)
 💼 [linkedin.com/in/developerzohaib](https://linkedin.com/in/developerzohaib)

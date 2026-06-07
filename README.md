@@ -86,12 +86,6 @@ Digitalized citizen-government interaction with civic request management, permit
 
 → [Live demo](https://aurex-repo-flus.vercel.app) · [GitHub](https://github.com/developerzohaib786/Aurex-hackathon-repo)
 
-<p>
-  <a href="https://github.com/developerzohaib786/Aurex-hackathon-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=developerzohaib786&repo=Aurex-hackathon-repo&theme=github_dark_dimmed&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ### Redis + Kafka Scalable Chat App

@@ -1,32 +1,80 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zohaib Irshad</h1>
-<h2 align="center">A Mid-Senior Software Engineer from Islamabad, Pakistan</h2>
-<h3 align="center"> Building fast, scalable web apps with Next.js, TypeScript & Node. Open to remote roles & freelance. Clean code, real results. </h3>
+# Muhammad Zohaib Irshad
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer_zohaib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/developerzohaib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zohaibirshad678@gmail.com) 
+**Full-Stack Engineer · Next.js · TypeScript · DevOps · Islamabad, Pakistan**
 
-# 💻 Tech Stack:
+![Open to remote](https://img.shields.io/badge/Open%20to-Remote%20Work-4ade80?style=flat-square)
+![Freelance](https://img.shields.io/badge/Available-Freelance-60a5fa?style=flat-square)
 
-### ⚙️ Frontend Development
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=shadcnui&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-282C34?style=for-the-badge&logo=zustand&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+---
 
-### 🖥️ Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=Clerk&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+## Who I am
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neon DB](https://img.shields.io/badge/Neon%20DB-00D9FF?style=for-the-badge&logo=Neondb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+I build production-ready web applications — the kind that handle real users, real load, and real deadlines. Two years in, I've shipped full-stack products across MERN and PERN stacks, leaned hard into **Next.js and TypeScript**, and gotten comfortable in the DevOps layer: CI/CD, containerization, cloud deployments. I care about code that's maintainable six months later, not just code that works today.
 
-### 🏗️ System Design & Scalability
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-FF4500?style=for-the-badge&logo=bullmq&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+---
 
-* **Message Queues & Workers:** Managing distributed background tasks and scheduled jobs using **BullMQ** and **Redis**.
-* **Event-Driven Architecture:** Decoupling microservices and processing high-throughput data streams with **Apache Kafka**.
-* **Traffic Control:** Implementing **Rate Limiting** (Fixed/Sliding Window), Load Balancing, and API Gateway patterns.
-* **Performance:** Advanced **Caching** strategies (In-memory, Distributed) and Database Indexing for optimization.
-* **Reliability:** Designing for **Horizontal Scaling**, High Availability, and Fault Tolerance.
+## What I work with
 
-### 🛠️ Tools & Others
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=openai&logoColor=white) ![Bolt.new](https://img.shields.io/badge/Bolt.new-3399FF?style=for-for-the-badge&logo=bolt&logoColor=white) ![Lovable Tools](https://img.shields.io/badge/Lovable%20Tools-FF69B4?style=for-the-badge&logo=lovelace&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+| Layer | Tools |
+|---|---|
+| Frontend | Next.js, React, TypeScript, Tailwind CSS, Redux Toolkit |
+| Backend | Node.js, NestJS, Express, REST, GraphQL |
+| Data | PostgreSQL, MongoDB, Redis, Prisma, Mongoose |
+| DevOps | Docker, GitHub Actions, AWS (EC2, S3), Nginx |
+| Architecture | BullMQ, Kafka, Rate limiting, Caching, Queue systems |
+
+---
+
+## Projects worth looking at
+
+### MediRAG — AI Medical Records Agent
+RAG-based medical records system with a custom system prompt designed to prevent hallucinations and meet regulatory constraints. Built for retrieval accuracy over raw LLM creativity — because in healthcare, wrong answers cost more than no answer.
+
+`TypeScript` `RAG` `Node.js` `PostgreSQL` `LLM`
+
+→ [View repo](#)
+
+### [Your project 2 name]
+What does it do, who did it serve, and what's one thing you had to solve that was genuinely hard? That's what goes here — not a features list.
+
+`Next.js` `Prisma` `Redis`
+
+→ [View repo](#)
+
+### [Your project 3 name]
+Same format. Describe the real problem. The tech tags speak for themselves.
+
+`NestJS` `Docker` `AWS`
+
+→ [View repo](#)
+
+---
+
+## Currently building
+
+**MediRAG — AI Medical Records Management MVP**
+Designing a RAG pipeline for structured patient record retrieval with hallucination guardrails, compliance-aware prompting, and a custom MediRAG system prompt. Exploring how to make LLMs useful in high-stakes domains without making them dangerous.
+
+---
+
+## The honest bit
+
+```js
+const zohaib = {
+  writes: "code that future-me won't hate",
+  avoids: "over-engineering things that don't need it",
+  cares_about: "shipping > perfecting",
+  open_to: ["remote full-time", "freelance projects", "interesting problems"]
+};
+```
+
+---
+
+## Get in touch
+
+If you have a project that needs a reliable full-stack engineer — or you're hiring remote — I'd like to hear about it.
+
+📧 [your@email.com](mailto:your@email.com) · 💼 [LinkedIn](#) · 🌐 [Portfolio](#)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=developerzohaib786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

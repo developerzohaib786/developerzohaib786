@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zohaib Irshad</h1>
 <h2 align="center">A Mid-Senior Software Engineer from Islamabad, Pakistan</h2>
-<h3 align="center"> Full-stack developer specializing in MERN and PERN stacks, with strong expertise in Next.js and 
-NestJS. Focused on designing scalable, high-performance backend architectures and building 
-production-ready systems. Active open-source contributor committed to clean code and practical 
-solutions. </h3>
+<h3 align="center"> Building fast, scalable web apps with Next.js, TypeScript & Node. Open to remote roles & freelance. Clean code, real results. </h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer_zohaib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/developerzohaib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zohaibirshad678@gmail.com) 

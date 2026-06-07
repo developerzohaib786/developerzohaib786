@@ -57,10 +57,8 @@ I care about code that's maintainable six months later, not just code that ships
 <br/>
 
 <!-- Stats + Top Languages side by side -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=developerzohaib786&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerzohaib786&layout=compact&theme=github_dark_dimmed&hide_border=true" />
-</p>
+| ![Stats](https://github-readme-stats.vercel.app/api?username=developerzohaib786&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerzohaib786&layout=compact&theme=github_dark_dimmed&hide_border=true) |
+|---|---|
 
 <!-- Streak -->
 <p align="center">

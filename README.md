@@ -54,9 +54,6 @@ I care about code that's maintainable six months later, not just code that ships
 
 ## GitHub stats
 
-<!-- Trophies -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=developerzohaib786&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br/>
 
 <!-- Stats + Top Languages side by side -->
@@ -103,11 +100,7 @@ Real-time chat with horizontal scaling built in from the start. Redis handles pr
 
 `Node.js` `Next.js` `Socket.io` `Redis` `Apache Kafka` `ImageKit`
 
-<p>
-  <a href="https://github.com/developerzohaib786/scalable-nodejs-backend-for-leaderboard-sphere">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=developerzohaib786&repo=scalable-nodejs-backend-for-leaderboard-sphere&theme=github_dark_dimmed&hide_border=true" />
-  </a>
-</p>
+→ [GitHub](https://github.com/developerzohaib786/scalable-nodejs-backend-for-leaderboard-sphere)
 
 ---
 
@@ -127,11 +120,7 @@ Collects real Reddit comments via public API, runs sentiment labeling through Ge
 
 `Next.js` `NextAuth` `MongoDB` `TypeScript` `Gemini API` `Reddit API`
 
-<p>
-  <a href="https://github.com/developerzohaib786/ecomerce-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=developerzohaib786&repo=ecomerce-store&theme=github_dark_dimmed&hide_border=true" />
-  </a>
-</p>
+→ [GitHub](https://github.com/developerzohaib786/ecomerce-store)
 
 ---
 

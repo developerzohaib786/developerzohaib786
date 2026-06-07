@@ -64,9 +64,6 @@ I care about code that's maintainable six months later, not just code that ships
 <!-- Activity graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=developerzohaib786&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Snake , only works after you set up the GitHub Action (see README_visual instructions) -->
-![Snake](https://raw.githubusercontent.com/developerzohaib786/developerzohaib786/output/github-snake-dark.svg)
-
 ---
 
 ## Projects worth looking at

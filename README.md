@@ -18,7 +18,7 @@
 
 ## Who I am
 
-I build production-ready web applications , the kind that handle real users, real load, and real deadlines. I've shipped full-stack products across the MERN and PERN stacks, leaned hard into **Next.js and TypeScript**, and gotten comfortable in the DevOps layer: CI/CD pipelines, containerization, and cloud deployments on AWS. I've contributed merged PRs to projects like **Joplin** and **Apache Polaris**, won a hackathon building under a 6-hour deadline, and I'm currently building **DevoraCamp**: a tech learning platform.
+I build production-ready web applications , the kind that handle real users, real load, and real deadlines. I've shipped full-stack products across the MERN and PERN stacks, leaned hard into **Next.js and TypeScript**, and gotten comfortable in the DevOps layer: CI/CD pipelines, containerization, and cloud deployments on AWS. I've contributed merged PRs to projects like **Joplin** and **Apache Polaris**, won a hackathon building under a 6-hour deadline, and I'm currently building **[DevoraCamp](https://devoracamp.com)**: a tech learning platform.
 
 I care about code that's maintainable six months later, not just code that ships today.
 
